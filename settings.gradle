@@ -1,0 +1,2 @@
+rootProject.name='noApicallMVVM'
+include ':app'
